@@ -41,7 +41,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+                        "SHA-256": "cf8c1b234ad4d72dd6a455b82bf48ff16cd794aaefb682729b0151f0e1c374dd"
                     },
                     "name": "maze.exe",
                     "type": "file"
@@ -179,7 +179,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+                        "SHA-256": "cf8c1b234ad4d72dd6a455b82bf48ff16cd794aaefb682729b0151f0e1c374dd"
                     },
                     "name": "maze.exe",
                     "type": "file"
@@ -251,7 +251,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+                        "SHA-256": "cf8c1b234ad4d72dd6a455b82bf48ff16cd794aaefb682729b0151f0e1c374dd"
                     },
                     "name": "maze.exe",
                     "type": "file"
@@ -1289,7 +1289,7 @@
                 },
                 "2": {
                     "hashes": {
-                        "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+                        "SHA-256": "cf8c1b234ad4d72dd6a455b82bf48ff16cd794aaefb682729b0151f0e1c374dd"
                     },
                     "name": "maze2.exe",
                     "type": "file"
